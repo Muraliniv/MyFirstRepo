@@ -1,2 +1,2 @@
-1. This is my First Git File.
-2. My First Git project
+1. This is my First Git project.
+2. My First Git file inside my project.
